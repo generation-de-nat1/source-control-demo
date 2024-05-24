@@ -11,11 +11,6 @@ Write below your favorite restaurant/place for food in the format given below
 
 KFC, Camden town, American - (Your_name if you prefer)
 Wood Flames Pizza, Italian - Sudesh
-Turkish/Thai/Japanese - Saruhan
+I would eat anything on a plate but my fav is Turkish/Thai/Japanese - Saruhan
 All, but the best Shawarma in town -> Mr. Falafel in Shepherd Bush Market, Carlos
-<<<<<<< HEAD
 Khans restaurant in bayeswater by queens way station - Nahom
-=======
-
->>>>>>> 29541322e08ab6b7247e5953659e49853ccbb391
->>>>>>> 98e0f56d89368a76a52b5f0243c6b8f6798b612b
